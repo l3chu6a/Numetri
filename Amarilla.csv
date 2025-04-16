@@ -1,0 +1,91 @@
+ Sales,COGS,Country,Discount Band,Discounts,Gross Sales,Manufacturing Price,Product,Profit,Sale Price,Segment,Units Sold,Month Name,Month Number,Year,Quarter,Month,Day
+3341.52,918,France,Medium,330.48,3672,260,Amarilla,2423.52,12,Channel Partners,306,December,12,2013,Qtr 4,December,1
+4280.4,1230,Mexico,High,639.6,4920,260,Amarilla,3050.3999999999996,12,Channel Partners,410,October,10,2014,Qtr 4,October,1
+5040.96,1416,Germany,High,623.04,5664,260,Amarilla,3624.96,12,Channel Partners,472,October,10,2014,Qtr 4,October,1
+4766.85,3210,France,Low,48.15,4815,260,Amarilla,1556.8500000000004,15,Midmarket,321,November,11,2013,Qtr 4,November,1
+12802.2,3369,Mexico,Medium,673.8,13476,260,Amarilla,9433.2,12,Channel Partners,1123,August,8,2014,Qtr 3,August,1
+15180,4125,Mexico,Medium,1320,16500,260,Amarilla,11055,12,Channel Partners,1375,December,12,2013,Qtr 4,December,1
+14375.76,4179,France,High,2340.24,16716,260,Amarilla,10196.76,12,Channel Partners,1393,October,10,2014,Qtr 4,October,1
+18478.8,5310,Germany,High,2761.2,21240,260,Amarilla,13168.8,12,Channel Partners,1770,December,12,2013,Qtr 4,December,1
+8001,5715,United States of America,None,0,8001,260,Amarilla,2286,7,Government,1143,October,10,2014,Qtr 4,October,1
+7707.35,5795,Germany,Medium,405.65,8113,260,Amarilla,1912.3500000000004,7,Government,1159,October,10,2013,Qtr 4,October,1
+23436,5859,United States of America,None,0,23436,260,Amarilla,17577,12,Channel Partners,1953,April,4,2014,Qtr 2,April,1
+7247.1,5950,France,High,1082.9,8330,260,Amarilla,1297.1000000000004,7,Government,1190,June,6,2014,Qtr 2,June,1
+23629.32,5967,United States of America,Low,238.68,23868,260,Amarilla,17662.32,12,Channel Partners,1989,September,9,2013,Qtr 3,September,1
+20794.8,6045,United States of America,High,3385.2,24180,260,Amarilla,14749.8,12,Channel Partners,2015,December,12,2013,Qtr 4,December,1
+9225,6150,United States of America,None,0,9225,260,Amarilla,3075,15,Midmarket,615,December,12,2014,Qtr 4,December,1
+25692,6423,United States of America,None,0,25692,260,Amarilla,19269,12,Channel Partners,2141,August,8,2014,Qtr 3,August,1
+9662.4,6710,United States of America,Low,402.6,10065,260,Amarilla,2952.3999999999996,15,Midmarket,671,October,10,2013,Qtr 4,October,1
+9811.8,7110,Germany,Medium,853.2,10665,260,Amarilla,2701.7999999999993,15,Midmarket,711,December,12,2014,Qtr 4,December,1
+25542,7425,France,High,4158,29700,260,Amarilla,18117,12,Channel Partners,2475,August,8,2014,Qtr 3,August,1
+27799.2,7722,Germany,High,3088.8,30888,260,Amarilla,20077.2,12,Channel Partners,2574,August,8,2014,Qtr 3,August,1
+29156.16,8283,Canada,High,3975.84,33132,260,Amarilla,20873.16,12,Channel Partners,2761,September,9,2013,Qtr 3,September,1
+11191.95,8415,Mexico,Medium,589.05,11781,260,Amarilla,2776.9500000000007,7,Government,1683,July,7,2014,Qtr 3,July,1
+11802,8430,Germany,None,0,11802,260,Amarilla,3372,7,Government,1686,July,7,2014,Qtr 3,July,1
+10420.619999999999,8655,France,High,1696.38,12117,260,Amarilla,1765.619999999999,7,Government,1731,October,10,2014,Qtr 4,October,1
+30072.48,8742,United States of America,High,4895.52,34968,260,Amarilla,21330.48,12,Channel Partners,2914,October,10,2014,Qtr 4,October,1
+18443.6,9410,France,Low,376.4,18820,260,Amarilla,9033.599999999999,20,Government,941,November,11,2014,Qtr 4,November,1
+13240.5,9700,Germany,Medium,1309.5,14550,260,Amarilla,3540.5,15,Midmarket,970,November,11,2013,Qtr 4,November,1
+18891.6,10380,Mexico,Medium,1868.4,20760,260,Amarilla,8511.599999999999,20,Government,1038,June,6,2014,Qtr 2,June,1
+38021.399999999994,10561.5,Canada,High,4224.6,42246,260,Amarilla,27459.899999999998,12,Channel Partners,3520.5,April,4,2014,Qtr 2,April,1
+20794.8,11180,Canada,Medium,1565.2,22360,260,Amarilla,9614.8,20,Government,1118,November,11,2014,Qtr 4,November,1
+24225.6,12360,United States of America,Low,494.4,24720,260,Amarilla,11865.599999999999,20,Government,1236,November,11,2014,Qtr 4,November,1
+20416.050000000003,12755,Canada,Medium,1688.9499999999998,22105,520,Amarilla,7661.050000000001,27,Government,1843,June,6,2014,Qtr 2,June,1
+25134.4,13660,Germany,Medium,2185.6,27320,260,Amarilla,11474.400000000001,20,Government,1366,June,6,2014,Qtr 2,June,1
+16841.44,13670,Canada,High,2296.56,19138,260,Amarilla,3171.4399999999987,7,Government,2734,October,10,2014,Qtr 4,October,1
+27968,15200,Germany,Medium,2432,30400,260,Amarilla,12768,20,Government,1520,November,11,2014,Qtr 4,November,1
+22256.324999999997,16305,Canada,Medium,2201.175,24457.5,260,Amarilla,5951.324999999999,15,Midmarket,1630.5,July,7,2014,Qtr 3,July,1
+30830.8,16940,Mexico,Medium,3049.2,33880,260,Amarilla,13890.8,20,Government,1694,November,11,2014,Qtr 4,November,1
+21076.44,17107.5,France,High,2874.06,23950.5,260,Amarilla,3968.9399999999987,7,Government,3421.5,July,7,2014,Qtr 3,July,1
+22484.7,17430,Canada,High,3660.3,26145,260,Amarilla,5054.700000000001,15,Midmarket,1743,October,10,2013,Qtr 4,October,1
+24123,18700,Mexico,High,3927,28050,260,Amarilla,5423,15,Midmarket,1870,November,11,2013,Qtr 4,November,1
+37980,18990,France,None,0,37980,260,Amarilla,18990,20,Government,1899,June,6,2014,Qtr 2,June,1
+36702,20390,Mexico,High,4078,40780,260,Amarilla,16312,20,Government,2039,May,5,2014,Qtr 2,May,1
+27972,20720,France,High,3108,31080,260,Amarilla,7252,15,Midmarket,2072,December,12,2014,Qtr 4,December,1
+28795.95,21570,Mexico,High,3559.05,32355,260,Amarilla,7225.950000000001,15,Midmarket,2157,December,12,2014,Qtr 4,December,1
+33633.6,25480,United States of America,High,4586.4,38220,260,Amarilla,8153.5999999999985,15,Midmarket,2548,November,11,2013,Qtr 4,November,1
+46796.2,26290,Mexico,High,5783.8,52580,260,Amarilla,20506.199999999997,20,Government,2629,January,1,2014,Qtr 1,January,1
+42309.880000000005,27355,United States of America,Medium,3679.12,45989,520,Amarilla,14954.880000000001,27,Government,4189,June,12,4028,Qtr 2,June,1
+42713.325,31995,United States of America,High,5279.174999999999,47992.5,260,Amarilla,10718.324999999999,15,Midmarket,3199.5,July,7,2014,Qtr 3,July,1
+76146,64750,Germany,Low,1554,77700,260,Amarilla,11396,300,Small Business,259,March,3,2014,Qtr 1,March,1
+65137.5,69480,United States of America,High,7237.5,72375,260,Amarilla,-4342.5,125,Enterprise,579,January,1,2014,Qtr 1,January,1
+83160,70200,United States of America,High,11340,94500,260,Amarilla,12960,350,Government,270,February,2,2014,Qtr 1,February,1
+117552.54000000001,98075,Mexico,High,14936.46,132489,520,Amarilla,19477.54,357,Government,2071,October,10,2013,Qtr 4,October,1
+105353.75,113640,Mexico,High,13021.25,118375,260,Amarilla,-8286.25,125,Enterprise,947,September,9,2013,Qtr 3,September,1
+115552.5,119280,Germany,Medium,8697.5,124250,260,Amarilla,-3727.5,125,Enterprise,994,September,9,2013,Qtr 3,September,1
+128880,128880,Mexico,Low,5370,134250,260,Amarilla,0,125,Enterprise,1074,April,4,2014,Qtr 2,April,1
+139230,136500,Mexico,High,24570,163800,260,Amarilla,2730,300,Small Business,546,October,10,2014,Qtr 4,October,1
+183540,143520,Canada,Medium,9660,193200,260,Amarilla,40020,350,Government,552,August,8,2014,Qtr 3,August,1
+175260,158750,Mexico,Medium,15240,190500,260,Amarilla,16510,300,Small Business,635,December,12,2014,Qtr 4,December,1
+159421.25,171960,France,High,19703.75,179125,260,Amarilla,-12538.75,125,Enterprise,1433,May,5,2014,Qtr 2,May,1
+222705,183820,Canada,High,24745,247450,260,Amarilla,38885,350,Government,707,September,9,2014,Qtr 3,September,1
+239183,189020,United States of America,Medium,15267,254450,260,Amarilla,50163,350,Government,727,October,10,2013,Qtr 4,October,1
+191231.25,197400,Canada,Medium,14393.75,205625,260,Amarilla,-6168.75,125,Enterprise,1645,May,5,2014,Qtr 2,May,1
+180416.25,199080,Canada,High,26958.75,207375,260,Amarilla,-18663.75,125,Enterprise,1659,January,1,2014,Qtr 1,January,1
+230310,213250,France,High,25590,255900,260,Amarilla,17060,300,Small Business,853,December,12,2014,Qtr 4,December,1
+229104,222000,Canada,High,37296,266400,260,Amarilla,7104,300,Small Business,888,March,3,2014,Qtr 1,March,1
+233531.25,238500,France,Medium,14906.25,248437.5,260,Amarilla,-4968.75,125,Enterprise,1987.5,January,1,2014,Qtr 1,January,1
+278810,273120,Germany,Low,5690,284500,260,Amarilla,5690,125,Enterprise,2276,May,5,2014,Qtr 2,May,1
+323694,275250,Mexico,Low,6606,330300,260,Amarilla,48444,300,Small Business,1101,March,3,2014,Qtr 1,March,1
+356250,312500,Germany,Medium,18750,375000,260,Amarilla,43750,300,Small Business,1250,December,12,2014,Qtr 4,December,1
+408310,319280,Canada,Medium,21490,429800,260,Amarilla,89030,350,Government,1228,October,10,2013,Qtr 4,October,1
+404176.5,329940,Canada,Medium,39973.5,444150,260,Amarilla,74236.5,350,Government,1269,October,10,2014,Qtr 4,October,1
+305730,341280,United States of America,High,49770,355500,260,Amarilla,-35550,125,Enterprise,2844,May,5,2014,Qtr 2,May,1
+382788,343000,United States of America,Medium,28812,411600,260,Amarilla,39788,300,Small Business,1372,December,12,2014,Qtr 4,December,1
+448875,351000,Germany,Medium,23625,472500,260,Amarilla,97875,350,Government,1350,February,2,2014,Qtr 1,February,1
+352106.25,379800,Germany,High,43518.75,395625,260,Amarilla,-27693.75,125,Enterprise,3165,January,1,2014,Qtr 1,January,1
+552391,436540,Mexico,Medium,35259,587650,260,Amarilla,115851,350,Government,1679,September,9,2014,Qtr 3,September,1
+597408,462280,Canada,Low,24892,622300,260,Amarilla,135128,350,Government,1778,December,12,2013,Qtr 4,December,1
+563304,479000,Canada,Low,11496,574800,260,Amarilla,84304,300,Small Business,1916,December,12,2014,Qtr 4,December,1
+626640,484900,Mexico,Low,26110,652750,260,Amarilla,141740,350,Government,1865,February,2,2014,Qtr 1,February,1
+640752,495820,Germany,Low,26698,667450,260,Amarilla,144932,350,Government,1907,September,9,2014,Qtr 3,September,1
+527437.5,506340,Germany,None,0,527437.5,260,Amarilla,21097.5,125,Enterprise,4219.5,April,4,2014,Qtr 2,April,1
+659613.5,538460,United States of America,Medium,65236.5,724850,260,Amarilla,121153.5,350,Government,2071,September,9,2014,Qtr 3,September,1
+692235.74,546775,France,Medium,44185.26,736421,520,Amarilla,145460.74,357,Government,3479,October,10,2013,Qtr 4,October,1
+705600,582400,Canada,High,78400,784000,260,Amarilla,123200,350,Government,2240,February,2,2014,Qtr 1,February,1
+678960,615000,Mexico,Medium,59040,738000,260,Amarilla,63960,300,Small Business,2460,June,6,2014,Qtr 2,June,1
+631125,618750,France,High,111375,742500,260,Amarilla,12375,300,Small Business,2475,March,3,2014,Qtr 1,March,1
+962500,715000,France,None,0,962500,260,Amarilla,247500,350,Government,2750,February,2,2014,Qtr 1,February,1
+936138,747760,France,Medium,70462,1006600,260,Amarilla,188378,350,Government,2876,September,9,2014,Qtr 3,September,1
+808110,748250,United States of America,High,89790,897900,260,Amarilla,59860,300,Small Business,2993,March,3,2014,Qtr 1,March,1
+1017338,771160,Germany,Low,20762,1038100,260,Amarilla,246178,350,Government,2966,October,10,2013,Qtr 4,October,1
